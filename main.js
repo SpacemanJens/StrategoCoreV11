@@ -32,8 +32,8 @@ const IMAGE_RING_X = 300;
 const IMAGE_RING_Y = 0;
 
 // Game Dimensions
-const SCREEN_WIDTH = 2400;
-const SCREEN_HEIGHT = 1200;
+const SCREEN_WIDTH = 2600;
+const SCREEN_HEIGHT = 1400;
 const GAME_AREA_X = 300;
 const GAME_AREA_Y = 50;
 const GAME_AREA_WIDTH = 1200;
